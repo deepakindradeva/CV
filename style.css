@@ -1,0 +1,37 @@
+/* rem = 1.5 */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+html {
+    font-size: 80.5%;
+}
+
+header {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+.introduction {
+    font-size: 1.5rem;
+}
+
+.profile_pic {
+    height: 20rem;
+    border-radius: 6.5rem;
+}
+
+.contact {
+    font-size: 1rem;
+}
+
+.work_exp {
+    font-size: 1.2rem;
+}
